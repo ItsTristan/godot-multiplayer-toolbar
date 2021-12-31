@@ -22,4 +22,4 @@ You must press the Stop All button to reset the instance id numbers.
 
 ## Installation
 
-See [https://docs.godotengine.org/en/stable/tutorials/plugins/editor/installing_plugins.html]() for instructions for installing a plugin in Godot.
+See [https://docs.godotengine.org/en/stable/tutorials/plugins/editor/installing_plugins.html](https://docs.godotengine.org/en/stable/tutorials/plugins/editor/installing_plugins.html) for instructions for installing a plugin in Godot.
